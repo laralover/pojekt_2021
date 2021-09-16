@@ -23,6 +23,9 @@ echo <<< 'AAA'
   l
 AAA;
 
+include "./forms.php";
+
+
 //include
 //require_once
 
