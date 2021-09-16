@@ -23,4 +23,11 @@ echo <<< 'AAA'
   l
 AAA;
 
+//include
+//require_once
+
+//__FILE__ pelna sciezka do danego pliku
+
+
+
 ?>
