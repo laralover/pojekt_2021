@@ -24,6 +24,10 @@ $result = $connect->query($sql2);
 //$row = $result->fetch_assoc();
 //
 //print_r($row);
+        
+if(isset($_GET['deleteUser'])){
+    echo "usunieto <br>";
+}
 
 echo <<<TBL
     <table>
